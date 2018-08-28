@@ -25,7 +25,7 @@ For each item that has multiple ingredients, create a sub list of a few (2-5) of
 
 1. Potato chips
   1. Potatoes
-  2. Oil
+  1. Oil
 1. Ice cream
 1. Falafel
   * Chickpeas
